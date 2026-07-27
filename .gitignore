@@ -6,10 +6,13 @@ libvgpu/build
 updateso.sh
 libvgpu.so
 .idea
-.vscode
 vendor
 license
 vgpuvalidator
 _output/
 coverage.out
 .DS_Store
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
